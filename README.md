@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre Git e GitHub do cuso Versionamento de 
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando alterações no Repositório Local para subimetir no Git| [Resumos]
+|Gravando alterações no Repositório Local para subimetir no Git e GitHub| [Resumos]
 () |
 ```
 git Init
