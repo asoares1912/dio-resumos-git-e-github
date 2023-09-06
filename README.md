@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre Git e GitHub do cuso Versionamento de 
 
 | Aulas | Resumos |
 |-------|---------|
-|Aula 1 alterações no Repositório Local para subimetir
+|Aula 1 alterações no Repositório Local para sub
 |Aula 2 alterações no Repositório Local para subimetir
 |Aula 3 alterações no Repositório Local para subimetir
  no Git e GitHub| [Resumos]
